@@ -15,7 +15,7 @@ The goal is to create a functional, affordable, and modular robotic hand that de
 - Adafruit PCA9685 (Servo-driver, 1x)
 - Fishing line (1x)
 - Power supply (for servos and ESP32, therefore 2x)
-- 3D-printed hand structure
+- 3D-printed hand structure (can be found in the STL-folder)
 
 # Software
 The system can be controlled using a micocontroler such as an Arduino or ESP32. I'm using the ESP32 with WiFi and Bluetooth compability with the Arduino IDE software.
