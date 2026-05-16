@@ -30,7 +30,8 @@ The movement is controlled via a website to recieve the users inputs.
 - Controlling via a glove with flex-sensors
 - Cable-managment in the palm
 
-//#Setup
+# Setup
+- For the Setup see Bionic_Hand_Schaltplan
 
 # Usage
 - Control the servos via the website and perform basic grasping and release motions
