@@ -18,7 +18,7 @@ The goal is to create a functional, affordable, and modular robotic hand that de
 - 3D-printed hand structure (can be found in the STL-folder)
 
 # Software
-The system can be controlled using a micocontroler such as an Arduino or ESP32. I'm using the ESP32 with WiFi and Bluetooth compability with the Arduino IDE software. To be exact I'm using the Web-Interface for real-time controlling.
+The system can be controlled using a micocontroler such as an Arduino or ESP32. I'm using the ESP32 with WiFi and Bluetooth compability with the Arduino IDE software. To be exact I'm using the Web-Interface for real-time controlling. 
 
 # How it works
 Each finger is connected to a servo motor via a cable (tendon). When the servo rotates, it pulls the cable, causing the finger to bend (flexion). Releasing the cable allows the finger to extend back to its original position.
@@ -35,5 +35,4 @@ The movement is controlled via a website to recieve the users inputs.
 
 # Usage
 - Control the servos via the website and perform basic grasping and release motions
-# Author
-Donjeta S.
+
